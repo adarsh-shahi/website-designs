@@ -596,3 +596,20 @@ strong {
   color: #fff;
   border-radius: 1.4rem;
 }
+
+.range-graph{
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.curve-graph{
+  display: flex;
+  gap: 1rem;
+  padding: 3rem;
+}
+
+.graph-plot{
+  width: 100%;
+  background-color: red;
+}
